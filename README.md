@@ -1,5 +1,5 @@
 
-<img align='right' src='https://media.giphy.com/media/dw36yjtOAtuSZyxEJG/giphy.gif' width='1400"'>
+<img align='right' src='https://media.giphy.com/media/dw36yjtOAtuSZyxEJG/giphy.gif' width='2000"'>
 I'm a tech enthusiast who loves to learn about new things.
 
 <img align='right' src='https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif' width='140"'>
