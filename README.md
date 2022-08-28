@@ -1,6 +1,6 @@
 
 
-<img align='right' src='https://media.giphy.com/media/dw36yjtOAtuSZyxEJG/giphy.gif' width='500'>
+<img align='right' src='https://media.giphy.com/media/dw36yjtOAtuSZyxEJG/giphy.gif' width='1000'>
 **I'm a tech enthusiast who loves to learn about new things.**
 
 <img align='right' src='https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif' width='320'>
