@@ -1,6 +1,5 @@
-<div class="tenor-gif-embed" data-postid="26633769" data-share-method="host" data-width="100%" data-aspect-ratio="2.4174757281553396"><a href="https://tenor.com/view/gif-26633769">GIF</a> </div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-<img align='right' src='https://img.webme.com/pic/x/xfci/ezgif.com-gif-maker%20(2).gif' width=850>
+<img align='right' src='https://media1.tenor.com/images/df6dc3c5e7e31765283a487eb35bdf84/tenor.gif?itemid=26633769' width=850>
 
 <br/>
 
