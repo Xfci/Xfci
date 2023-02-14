@@ -11,7 +11,7 @@ I'm a tech enthusiast who loves to learn about new things.
 
 [![Instagram Badge](https://img.shields.io/badge/-Xfci-232931?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/xfci_c/)](https://www.instagram.com/xfci_c/)
 [![Website Badge](https://img.shields.io/badge/-xfci.tr.gg-4ecca3?style=flat-square&logo=HTML5&logoColor=white&link=https://xfci.github.io/)]([https://xfci.tr.gg/](https://xfci.github.io/))
-[![Gmail Badge](https://img.shields.io/badge/-tekyusufemin@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tekyusufemin@hotmail.com)](mailto:tekyusufemin@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-contact@xfci.live-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@xfci.live)](mailto:contact@xfci.live)
 ##  About Me:
 - Firstly i can say, i am a student
 - Mostly i use Python for creating projects
