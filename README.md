@@ -5,7 +5,7 @@
 
 I'm a tech enthusiast who loves to learn about new things.
 
-<img align='right' src='https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif' width='320'>
+<img align='right' src='https://media1.tenor.com/images/df6dc3c5e7e31765283a487eb35bdf84/tenor.gif?itemid=26633769' width='320'>
 
 
 
