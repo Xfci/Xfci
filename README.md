@@ -15,7 +15,6 @@ I'm a tech enthusiast who loves to learn about new things.
 ##  About Me:
 - Firstly i can say, i am a student
 - Mostly i use Python for creating projects
-- I'm creating video games with Unreal Engine
 - I love learning new things
 
 ### Skills
